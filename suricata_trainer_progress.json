@@ -1,0 +1,344 @@
+{
+  "questions": {
+    "op001": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": "2026-05-17T22:08:10"
+    },
+    "op002": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 2,
+      "last_seen": "2026-05-17T22:07:27"
+    },
+    "op003": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "hints_used": 1,
+      "mastery": 0,
+      "last_seen": "2026-05-17T22:06:00"
+    },
+    "op004": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": "2026-05-17T22:05:35"
+    },
+    "op005": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "hints_used": 1,
+      "mastery": 0,
+      "last_seen": "2026-05-17T22:09:38"
+    },
+    "op006": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": "2026-05-17T22:05:14"
+    },
+    "op007": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "hints_used": 1,
+      "mastery": 1,
+      "last_seen": "2026-05-17T22:07:52"
+    },
+    "op008": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "hints_used": 1,
+      "mastery": 1,
+      "last_seen": "2026-05-17T22:06:19"
+    },
+    "op009": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "op010": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "op011": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "op012": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "op013": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "op014": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "op015": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 2,
+      "last_seen": "2026-05-17T22:06:53"
+    },
+    "op016": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "op017": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "op018": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp001": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp002": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp003": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp004": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp005": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp006": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp007": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp008": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp009": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp010": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp011": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp012": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp013": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp014": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    },
+    "rp015": {
+      "seen": 0,
+      "correct": 0,
+      "wrong": 0,
+      "hints_used": 0,
+      "mastery": 0,
+      "last_seen": null
+    }
+  },
+  "sessions": [
+    {
+      "category": "Optimization",
+      "started": "2026-05-17T22:04:52",
+      "asked": 9,
+      "correct": 4,
+      "wrong": 5,
+      "adaptive": true
+    },
+    {
+      "category": "Rule Repair",
+      "started": "2026-05-17T22:13:57",
+      "asked": 0,
+      "correct": 0,
+      "wrong": 0,
+      "adaptive": true
+    }
+  ],
+  "skills": {
+    "content_matching": {
+      "seen": 8,
+      "correct": 4,
+      "wrong": 4,
+      "hints_used": 3,
+      "mastery": 2.0
+    },
+    "dns": {
+      "seen": 2,
+      "correct": 1,
+      "wrong": 1,
+      "hints_used": 0,
+      "mastery": 1
+    },
+    "tls": {
+      "seen": 1,
+      "correct": 0,
+      "wrong": 1,
+      "hints_used": 0,
+      "mastery": 0
+    },
+    "tuning": {
+      "seen": 9,
+      "correct": 4,
+      "wrong": 5,
+      "hints_used": 4,
+      "mastery": 2.0
+    },
+    "http_buffers": {
+      "seen": 5,
+      "correct": 2,
+      "wrong": 3,
+      "hints_used": 2,
+      "mastery": 0.5
+    },
+    "tcp_flow": {
+      "seen": 5,
+      "correct": 2,
+      "wrong": 3,
+      "hints_used": 3,
+      "mastery": 0.5
+    },
+    "thresholding": {
+      "seen": 2,
+      "correct": 1,
+      "wrong": 1,
+      "hints_used": 2,
+      "mastery": 0.5
+    },
+    "regex": {
+      "seen": 1,
+      "correct": 1,
+      "wrong": 0,
+      "hints_used": 1,
+      "mastery": 0.5
+    }
+  }
+}
